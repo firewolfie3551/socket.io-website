@@ -62,8 +62,7 @@ We recommend using the ESM syntax in your project, though this might not always 
 For your convenience, throughout the tutorial, each code block allows you to select your preferred syntax:
 
 <Tabs groupId="lang">
-  <TabItem value="cjs" label="CommonJS" default>
-
+  <TabItem value="cjs" label="CommonJS" defaul
 ```js
 const { Server } = require("socket.io");
 ```
